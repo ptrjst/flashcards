@@ -1,5 +1,7 @@
 # Objects on Rails
 
+Flash card deck created to remember the lessons from the book Avdi Grimm's book [Objects on Rails](http://objectsonrails.com/).
+
 ### What is the purpose of Object-Oriented software development?
 
 To make our apps easier to change.
