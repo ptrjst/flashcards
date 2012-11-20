@@ -6,9 +6,10 @@
 
 ### What are the top level functions for converting strings to numbers?
 
-`parseFloat(string, radix)`
-
-`parseInt(string, radix)`
+```js
+parseFloat(string, radix)
+parseInt(string, radix)
+```
 
 Radix is base 2, base 10, base 16, etc. This is optional. The default value is 10. That said, you should *always* supply this argument. JavaScript does some funny conversions from strings to ints, sometimes.
 
@@ -16,12 +17,14 @@ Radix is base 2, base 10, base 16, etc. This is optional. The default value is 1
 
 No. JavaScript is classless, but classes can be simulated using functions.
 
-    function Person() {
-      this.publicMember = "foo";
-      this.privilegedMethod = function() { return privateMethod(); }
-      var privateMember = "bar";
-      function privateMethod() { return "hello"; 	}
-    }
+```js
+function Person() {
+  this.publicMember = "foo";
+  this.privilegedMethod = function() { return privateMethod(); }
+  var privateMember = "bar";
+  function privateMethod() { return "hello"; }
+}
+```
 
 ### What does the error "can't serialize, infinite loop" mean?
 
@@ -31,11 +34,13 @@ The solution to this problem is found in the concept of "deep copy"—you make a
 
 ### How do you perform a GET or POST request to a remote URL?
 
-    XMLHttpRequest
-    jQuery.ajax(url, callback)
-    jQuery.get()
-    jQuery.post()
-    
+```js
+XMLHttpRequest
+jQuery.ajax(url, callback)
+jQuery.get()
+jQuery.post()
+```
+
 ### What's the difference between `undefined` and `null`?
 
 `undefined` is where no notion of the thing exists: no type and has never been reference before in the scope.
@@ -46,41 +51,49 @@ The solution to this problem is found in the concept of "deep copy"—you make a
 
 Double equal (==) checks value which triple (===) checks both value and type.
 
-    1 == "1" // true
-    1 === "1" // false (checks type too)
-    1 === 1.0 // true (all just numbers)
-    new String("a") == new String("a") // false
-    new String("a").valueOf() == new String("a").valueOf() // true
+```js
+1 == "1" // true
+1 === "1" // false (checks type too)
+1 === 1.0 // true (all just numbers)
+new String("a") == new String("a") // false
+new String("a").valueOf() == new String("a").valueOf() // true
+```
     
 ### What are the two ways to set properties in JavaScript?
 
 1. dot syntax
 
+    ```js
     person.gender
+    ```
 
 2. bracket syntax
 
+    ```js
     person["gender"]
+    ```
 
 ### How many ways are there for creating objects?
 
 Four ways to create objects.
 
-    var newObject = {};
-    var newObject = Object.create(null);
-    var newObject = new Object(); // constructor function
-    
-    // and with a closure
-    var counter = function(count) {
-      console.log(">> setting count to " + this.count);
-      return {
-        getCount: function() {
-          return ++count;
-        }
-      }
+```js
+var newObject = {};
+var newObject = Object.create(null);
+var newObject = new Object(); // constructor function
+
+// and with a closure
+var counter = function(count) {
+  console.log(">> setting count to " + this.count);
+  return {
+    getCount: function() {
+      return ++count;
     }
-    mycounterWithOffset = counter(10);
-    console.log(mycounterWithOffset.getCount());  // outputs 11
+  }
+}
+mycounterWithOffset = counter(10);
+console.log(mycounterWithOffset.getCount());  // outputs 11
+```
 
 The convention is that constructor functions should begin with a capital letter. Note: if the new keyword is not used, then the 'this' variable inside the function will refer to the global object. Can you smell a potential mess? Hence why the capital letter convention for constructor functions is used. The capital letter means: "I am a constructor function, please use the new keyword".
 
