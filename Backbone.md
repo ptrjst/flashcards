@@ -65,9 +65,9 @@ No. Unfortunatly, these libraries must be loaded synchronously because they depe
 
 <table>
   <tr>
-    <th>Purpose</td>
-    <th>Backbone.js</td>
-    <th>Rails</td>
+    <th>Purpose</th>
+    <th>Backbone.js</th>
+    <th>Rails</th>
   </tr>
   <tr>
     <td>Business data and logic</td>
