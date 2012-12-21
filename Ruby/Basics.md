@@ -41,3 +41,24 @@ And all uppercase, punctuated by underscore:
 
 Russ Olsen prefers all uppercase.
 
+### What are blocks?
+
+Ruby's implementation of closures.
+
+### How can you print out the current callstack?
+
+	puts caller
+	
+### What's another way of saying "call a block"?
+
+Yield to a block.
+
+### What is the return value of a lamba?
+
+A proc.
+
+### Are procs, blocks, and lambdas all the same thing?
+
+Yes. They're all closures.
+
+But, not. They're implemented differently.
