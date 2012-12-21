@@ -1,6 +1,12 @@
 MacRuby
 =======
 
+Author: Sean Moubry
+
+This deck teaches the fundamentals of MacRuby--an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector.
+
+## Fundamentals
+
 ### Who is the primary author of MacRuby?
 
 Laurent Sansonetti ([@lrz](twitter.com/lrz))
