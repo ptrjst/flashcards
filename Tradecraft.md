@@ -9,9 +9,14 @@ A clandestine operation is an intelligence or military operation carried out in 
 
 [Wikipedia](http://en.wikipedia.org/wiki/Clandestine_operation)
 
-### Never let them see you bleed.
+### What are the two things Q always tried to teach Bond?
 
-### Always have an escape plan.
+In the 1999 film *The World Is Not Enough*, Q told James Bond that "I've always tried to teach you two things":
+
+1. Never let them see you bleed.
+2. Always have an escape plan.
+
+[Read the quote on IMDb.](http://www.imdb.com/title/tt0143145/quotes?qt=qt0373898)
 
 ### What does KGB mean?
 
