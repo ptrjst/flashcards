@@ -1,4 +1,4 @@
-Spy Tradecraft
+Tradecraft
 ==============
 
 A spy is a covert operative who gathers information about an organization or society. The skill a spy aquires through experience in espionage is known as [tradecraft](http://en.wikipedia.org/wiki/Tradecraft).
