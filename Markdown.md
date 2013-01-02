@@ -36,6 +36,30 @@ Other influences:
 
 Puntuation characters.
 
+## Section Headings
+
+### How do you make an `<h1>`, `<h2>`, `<h3>`, `<h4>`, or `<h5>`?
+
+Use a pound to represent the heading level:
+
+    # This is a heading level 1
+
+    ## This is a heading level 2
+
+    ### This is a heading level 3
+
+    #### This is a heading level 4
+
+    ##### This is a heading level 5
+
+Also, you can use underlines for `<h1>` and `<h2>`:
+
+    This is a heading level 1
+    =========================
+
+    This is a heading level 2
+    -------------------------
+
 Further reading
 ---------------
 
