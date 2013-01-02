@@ -7,6 +7,12 @@ The beauty of Markdown's syntax is you can learn it quickly just by looking at a
 
 ## Philosophy
 
+### The Purpose of Markdown's Syntax
+
+*Writing* on the web. The idea for Markdown is to make it easy to read, write, and edit prose.
+
+This is why Markdown only supports a subset of HTML.
+
 ### Markdown is optimized for what, above all else?
 
 Readability
