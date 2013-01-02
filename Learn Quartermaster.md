@@ -21,6 +21,6 @@ Now, you're getting the hang of it.
 
 Okay, that's really all there is to know about the app. Pretty straight forward.
 
-If you have any questions, please feel free to email [help@quartermaster.io](mailto:help@quartermaster.io) with any questions.
+If you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
 
-Or, if you have general feedback/comments, then email [feedback@quartermaster.io](mailto:help@quartermaster.io).
+Or, if you have general feedback/comments: [feedback@quartermaster.io](mailto:help@quartermaster.io)
