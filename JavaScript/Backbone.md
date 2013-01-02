@@ -329,11 +329,3 @@ Links to great resources:
 
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - http://dublintech.blogspot.com/2012/04/javascript-language-z-cheat-sheet.html
-
-Design patterns to cram for:
-
-- Creational Design Patterns (based on the concept of creating an object): Constructor, Factory, Abstract, Prototype, Singleton and Builder
-
-- Structural Design Patterns (based on the concept of building blocks of objects -- relationships): Decorator, Facade, Flyweight, Adapter and Proxy
-
-- Behavioral Design Patterns (based on the way objects play and work together -- focus on improving or streamlining the communication between disparate objects in a system): Iterator, Mediator, Observer and Visitor
