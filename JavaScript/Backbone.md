@@ -78,19 +78,19 @@ No. Unfortunatly, these libraries must be loaded synchronously because they depe
   </tr>    
 </table>
 
-## Where does the HTML markup live in a Backbone app? What about in a Rails app?
+### Where does the HTML markup live in a Backbone app? What about in a Rails app?
 
 In Rails, HTML goes in a View. Backbone has Views, too—but that's not where the HTML goes. In Backbone, HTML goes in a Template. The View in Backbone is all JavaScript. It's more like a Rails Controller.
 
-## What is Eco?
+### What is Eco?
 
 Referes to *.eco files for the Eco templating engine. It behaves similar to ERB (you can use ERB tags) but it's just Coffeescript. Commonly used in Backbone on Rails apps.
 
-## What is Underscore.js?
+### What is Underscore.js?
 
 Underscore is the tie to go along with jQuery's tux, and Backbone's suspenders.
 
-## What are the pros and cons of using Backbone?
+### What are the pros and cons of using Backbone?
 
 Pros:
 
@@ -103,7 +103,7 @@ Cons:
 - Designed more towards consuming REST data.
 - More complex initially if compared to knockout.js.
 
-## How is Backbone lightweight?
+### How is Backbone lightweight?
 
 - Less than 700 lines of JavaScript.
 - Easy to read in an hour.
@@ -143,14 +143,14 @@ Returns true if model is not persistent (has not been saved).
 
 Returns attribute keys and values, ready for serialization.
 
-## What does a `Backbone.View` object do?
+### What does a `Backbone.View` object do?
 
 - Display data and UI controls
 - Render data with a template
 - React to model changes
 - Act on user input
 
-## What are the three common render tasks for a `Backbone.View`?
+### What are the three common render tasks for a `Backbone.View`?
 
 1. Combine template and data
 
@@ -164,7 +164,7 @@ Append, insert, or otherwise augment the existing HTML document with the newly r
 
 So other methods can be called.
 
-## What special root properties ("options") do `Backbone.View` objects have?
+### What special root properties ("options") do `Backbone.View` objects have?
 
 - this.model
 - this.collection
@@ -173,7 +173,7 @@ So other methods can be called.
 - this.className
 - this.tagName
 
-## What is `el`?
+### What is `el`?
 
 The overall DOM element represented by a view.
 
@@ -184,19 +184,19 @@ The overall DOM element represented by a view.
 - `className` - Set the CSS class. For styling.
 - `el` - The overall DOM element represented by a view.
 
-## What are the model change events?
+### What are the model change events?
 
 `set({a:'b'})` → `change` & `change:a`
 
 Two events are triggered. Views can re-render themselves.
 
-## What does it mean for Backbone to be "data-driven"?
+### What does it mean for Backbone to be "data-driven"?
 
 Backbone applications are built around data. You'll drive behavior by changing model data rather than manipulating views directly.
 
 Views will react to user actions by modifying data and letting the changes events cascade down (sometimes back to the same view).
 
-## What is `bindAll`?
+### What is `bindAll`?
 
     initialize: function() {
       _.bindAll(this, 'render');
@@ -205,7 +205,7 @@ Views will react to user actions by modifying data and letting the changes event
     
 `bindAll(obj, methods)` Permanently associates methods with a specific object. Most of your Backbone Views will need to start out with this line.
 
-## What's the typical routine of a `Backbone.Model`?
+### What's the typical routine of a `Backbone.Model`?
 
 - **Models store data**<br>
   Persistent or temporary.
@@ -216,7 +216,7 @@ Views will react to user actions by modifying data and letting the changes event
 - **Views observe and re-render**<br>
   The UI is updated instantly. 
 
-## What does a `Backbone.Collection` object do?
+### What does a `Backbone.Collection` object do?
 
 - Fetch model data
 - Add to existing set
@@ -225,7 +225,7 @@ Views will react to user actions by modifying data and letting the changes event
 
 Are kinda like class methods in ActiveRecord.
 
-## Backbone models have the `urlRoot` property while Backbone collections have the `url` property. What's the difference between these two?
+### Backbone models have the `urlRoot` property while Backbone collections have the `url` property. What's the difference between these two?
 
 Both `urlRoot` and `url` specify the base for the server-side JSON API that houses the resource. If you use one, there's usually no need to set the other.
 
@@ -250,51 +250,51 @@ Setting the collection's `url` property:
 
 If we specify the URL for Tasks in our collection instead, then models within the collection will use the collection’s URL to construct their own URLs, and the urlRoot no longer needs to be specified in the model. If we make that change, then our collection and model will be as follows.
 
-## What are the Underscore.js methods for Collections?
+### What are the Underscore.js methods for Collections?
 
 `each`, `map`, `select`, `reject`, `pluck`, `max`, `min`, `sortBy`, `size`
 
-## What are the Underscore.js methods for Arrays?
+### What are the Underscore.js methods for Arrays?
 
 `first`, `rest`, `last`, `compact`, `flatten`, `without`, `union`, `intersection`, `uniq`, `indexOf`, `range`
 
-## What are the Underscore.js methods for Functions?
+### What are the Underscore.js methods for Functions?
 
 `bind`, `bindAll`, `memoize`, `delay`, `defer`, `throttle`, `once`, `after`, `wrap`
 
-## What is an shorter way to write `albums.map(function (album) { return album.get('title') })`?
+### What is an shorter way to write `albums.map(function (album) { return album.get('title') })`?
 
 `albums.pluck('title')`
 
-## What are the Collection events?
+### What are the Collection events?
 
 1. `add`
 2. `remove`
 3. `reset`
 
-## Can Backbone have nested views?
+### Can Backbone have nested views?
 
 Yes. Views have other views inside them. Individual subviews can update their content at any time without affecting the other views.
 
 A Collection-backed view operates this way -- each item in the collection is rendered by its own view.
 
-## Convention: What do jQuery objects look like?
+### Convention: What do jQuery objects look like?
 
 They always begin with a dollar sign: `$albums`.
 
-## Does a view automatically insert itself into the DOM?
+### Does a view automatically insert itself into the DOM?
 
 No. You have to do it.
 
     $albums.append(view.render().el);
     
-## What does "render on data" mean?
+### What does "render on data" mean?
 
 **Render when data arrives.** It happens asynchronously, so you can't guarantee that the data will be there at any specific time. React to the arrival of data.
 
 **May fire several times.** The render method will be called at least twice, and maybe many more times. Clear out the existing HTML so content isn't duplicated.
 
-## What are the two ways to load data in Backbone?
+### What are the two ways to load data in Backbone?
 
 1. **Network** - Load data from the server with a network request for JSON data. Fires the 'reset' event when done.
 
@@ -304,7 +304,7 @@ No. You have to do it.
 
     Albums.reset([{ title: '...' }])
     
-## What are the three key parts of a router?
+### What are the three key parts of a router?
 
 1. **routes** - Keys and values mapping URLs to custom route handler methods.
 
@@ -312,7 +312,7 @@ No. You have to do it.
 
 3. **Custom Route Handlers** - Add specific views to the document and load extra data (such as a specific date specified in the URL).
 
-## What are the two differeny ways Backbone routers handle URLs?
+### What are the two differeny ways Backbone routers handle URLs?
 
 1. **Hashmark** - This is the default.
 
@@ -322,13 +322,11 @@ No. You have to do it.
 
     Backbone.history.start({ pushState: true });
     
-## How do you navigate in the console?
+### How do you navigate in the console?
 
 Where `App` is an object that extends `Backbone.Router`, to navigate to `http://yourapp.dev/#albums`:
 
     App.navigate('albums', true)
-    
-
 
 Links to great resources:
 
