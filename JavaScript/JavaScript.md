@@ -1,6 +1,6 @@
 # JavaScript
 
-JavaScript is a scripting language created by Brendan Eich to run in web browsers for creating dynamic websites. Today, it's used server-side via technologies such as Node.js.
+JavaScript is a scripting language created by Brendan Eich to run in web browsers for creating dynamic websites. Today, it's also used server-side via technologies such as Node.js.
 
 ### What are the three core global objects?
 
