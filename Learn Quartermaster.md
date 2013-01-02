@@ -5,6 +5,8 @@ This is a flashcard deck.
 
 It will walk you through all you need to know about Quartermaster.
 
+Tap the play button to get started.
+
 ### This is the front side of a card. Tap to flip it.
 
 And this is the back side of the card.
