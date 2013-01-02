@@ -177,7 +177,7 @@ So other methods can be called.
 
 The overall DOM element represented by a view.
 
-## What are the DOM properties you can override in a view?
+### What are the DOM properties you can override in a view?
 
 - `id` - Manually set the unique identifier for the current element.
 - `tagName` - Set the HTML tag: div, li, span, etc.
