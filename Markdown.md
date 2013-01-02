@@ -36,6 +36,37 @@ Other influences:
 
 Puntuation characters.
 
+## Inline HTML
+
+### What is the purpose of Markdown's inline HTML feature?
+
+To use HTML tags in a document that Markdown doesn't support.
+
+For example, to add an HTML table to a Markdown article:
+
+    This is a regular paragraph.
+
+    <table>
+        <tr>
+            <td>Foo</td>
+        </tr>
+    </table>
+
+    This is another regular paragraph.
+
+### What are the two restrictions to using inline HTML?
+
+The two restrictions to using inline HTML:
+
+1. block-level HTML elements — e.g. `<div>`, `<table>`, `<pre>`, `<p>`, etc. — must be separated from surrounding content by blank lines
+2. the start and end tags of the block should not be indented with tabs or spaces
+
+### Can you use `*emphasis*` inside inline HTML?
+
+No. Markdown is not processed if it's inside block-level HTML elements.
+
+That said, Fletcher Penny's variant [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) supports tables, so you wouldn't have to use HTML, so you could use Markdown inside a table.
+
 ## Section Headings
 
 ### How do you make an `<h1>`, `<h2>`, `<h3>`, `<h4>`, or `<h5>`?
@@ -67,7 +98,7 @@ Documentation by John Gruber, author of Markdown:
 
 - [Markdown: Main](http://daringfireball.net/projects/markdown/)
 - [Markdown: Basics](http://daringfireball.net/projects/markdown/basics)
-- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 
 [GitHub-flavored Markdown (GFM)](http://github.github.com/github-flavored-markdown/)
 
