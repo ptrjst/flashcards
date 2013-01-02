@@ -43,4 +43,8 @@ Documentation by John Gruber, author of Markdown:
 
 - [Markdown: Main](http://daringfireball.net/projects/markdown/)
 - [Markdown: Basics](http://daringfireball.net/projects/markdown/basics)
-- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)- [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+
+[GitHub-flavored Markdown (GFM)](http://github.github.com/github-flavored-markdown/)
+
+Fletcher Penny's [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
