@@ -328,7 +328,7 @@ Where `App` is an object that extends `Backbone.Router`, to navigate to `http://
 
     App.navigate('albums', true)
 
-Links to great resources:
+## Further reading
 
 - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 - http://dublintech.blogspot.com/2012/04/javascript-language-z-cheat-sheet.html
