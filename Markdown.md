@@ -71,7 +71,7 @@ That said, Fletcher Penny's variant [MultiMarkdown](http://fletcherpenney.net/mu
 
 ### How do you make an `<h1>`, `<h2>`, `<h3>`, `<h4>`, or `<h5>`?
 
-Use a pound to represent the heading level:
+Use the pound symbol:
 
     # This is a heading level 1
 
