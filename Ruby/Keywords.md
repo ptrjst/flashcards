@@ -193,6 +193,6 @@ Called from inside a method body, yields control to the code block (if any) supp
 
 ## Further reading
 
-Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
+Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) (2011)
 
 Michael Fitzgerald's [Ruby Pocket Reference](http://shop.oreilly.com/product/9780596514815.do) (O'Reilly Media, 2007)
