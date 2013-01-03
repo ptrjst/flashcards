@@ -62,3 +62,13 @@ A proc.
 Yes. They're all closures.
 
 But, not. They're implemented differently.
+
+### What's a predicate method?
+
+A predicate method is a Ruby method whose name ends with a question mark `?` and returns a Boolean value. In the following example, `empty?` is a predicate method:
+
+    do_something_with(array) unless array.empty?
+
+In the following RSpec example, the method named `be_empty` is known as a "predicate matcher":
+
+    array.should be_empty
