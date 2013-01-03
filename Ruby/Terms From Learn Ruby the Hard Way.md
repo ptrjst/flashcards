@@ -1,6 +1,6 @@
 # Ruby Keywords
 
-A set of important reversed words (keywords) for Ruby the programming language. Based off Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) and containing definitions wording directly from [ruby-doc.org](ruby-doc.org). Forked from [Thornquest's Quizlet flashcard deck](http://quizlet.com/11068057/learn-ruby-the-hard-way-keywords-flash-cards/). Containing additional descriptions from the O'Reilly Ruby Pocket Reference (2007).
+A set of important reserved words (keywords) for Ruby the programming language. Based off Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) and containing definitions wording directly from [ruby-doc.org](ruby-doc.org). Forked from [Thornquest's Quizlet flashcard deck](http://quizlet.com/11068057/learn-ruby-the-hard-way-keywords-flash-cards/). Containing additional descriptions from the O'Reilly Ruby Pocket Reference (2007).
 
 ## alias
 
