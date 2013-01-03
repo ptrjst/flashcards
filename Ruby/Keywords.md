@@ -1,8 +1,8 @@
 # Ruby Reserved Words
 
-The Ruby language has [a set of reserved words](http://ruby-doc.org/docs/keywords/1.9/), which should not be used for as variable, method, class, or module names.
+Every programming langauge has a set of reserved words (sometimes called "keywords"), which have special meaning and should not be used for as variable, method, class, or module names.
 
-This deck will help you remember what they are and how they're used with code examples.
+This deck will help you remember [Ruby's reserved words](http://ruby-doc.org/docs/keywords/1.9/) using code examples.
 
 For accuracy, definition wording is directly from [ruby-doc.org](ruby-doc.org).
 
