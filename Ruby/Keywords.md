@@ -4,7 +4,7 @@ Every programming langauge has a set of reserved words (sometimes called "keywor
 
 This deck will help you remember [Ruby's reserved words](http://ruby-doc.org/docs/keywords/1.9/) using code examples.
 
-For accuracy, definition wording is directly from [ruby-doc.org](ruby-doc.org).
+The [ruby-doc.org](http://ruby-doc.org/) Ruby documentation project is the primary source for definition wording in this deck.
 
 ### What is the difference between a reserved word and a keyword?
 
