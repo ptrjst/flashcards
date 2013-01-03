@@ -1,6 +1,16 @@
 # Ruby Reserved Words
 
-A set of important reserved words (keywords) for Ruby the programming language. Based off Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/) and containing definitions wording directly from [ruby-doc.org](ruby-doc.org). Forked from [Thornquest's Quizlet flashcard deck](http://quizlet.com/11068057/learn-ruby-the-hard-way-keywords-flash-cards/). Containing additional descriptions from the O'Reilly Ruby Pocket Reference (2007).
+The Ruby language has [a set of reserved words](http://ruby-doc.org/docs/keywords/1.9/), which should not be used for as variable, method, class, or module names.
+
+This deck will help you remember what they are and how they're used with code examples.
+
+For accuracy, definition wording is directly from [ruby-doc.org](ruby-doc.org).
+
+### What is the difference between a reserved word and a keyword?
+
+[Wikipedia](http://en.wikipedia.org/wiki/Reserved_word):
+
+> A keyword is a word that is special only in certain contexts but a reserved word is a special word that cannot be used as a user-defined name.
 
 ## alias
 
@@ -143,3 +153,9 @@ Takes a condition argument, and executes the code that follows (up to a matching
 
 yield
 Called from inside a method body, yields control to the code block (if any) supplied as part of the method call. If no code block has been supplied, calling yield raises an exception.
+
+## Further reading
+
+Zed Shaw's [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
+
+Michael Fitzgerald's [Ruby Pocket Reference](http://shop.oreilly.com/product/9780596514815.do) (O'Reilly Media, 2007)
