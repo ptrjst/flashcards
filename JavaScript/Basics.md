@@ -112,15 +112,17 @@ Two ways to comment:
 
 `/* */` is bad because it's not safe for commenting out code blocks. JavaScript is likely to contain regular expression literals, which uses the same symbols.
 
-    /*
-      var rm_a = /a*/.match(s);
-    */
+```js
+/*
+  var rm_a = /a*/.match(s);
+*/
+```
 
 Use `//` exclusively.
 
 ### How many different number types does JavaScript have?
 
-Only a single number type -- a 64-bit floating point, same as Java's double. 
+Only a single number type—a 64-bit floating point, same as Java's double. 
 
 1 and 1.0 are the same value.
 
