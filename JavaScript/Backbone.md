@@ -284,11 +284,11 @@ No. You have to do it.
 
 1. **Network** - Load data from the server with a network request for JSON data. Fires the 'reset' event when done.
 
-    Albums.fetch()
+        Albums.fetch()
 
 2. **Preload** - Call 'reset' directly with an array of key/value objects. Fires the 'reset' event when done.
 
-    Albums.reset([{ title: '...' }])
+        Albums.reset([{ title: '...' }])
 
 ### What are the three key parts of a router?
 
@@ -302,11 +302,11 @@ No. You have to do it.
 
 1. **Hashmark** - This is the default.
 
-    Backbone.history.start();
+        Backbone.history.start();
 
 2. **Push State** - This is optional, uses traditional-style URLs.
 
-    Backbone.history.start({ pushState: true });
+        Backbone.history.start({ pushState: true });
 
 ### How do you navigate in the console?
 
