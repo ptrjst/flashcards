@@ -29,9 +29,15 @@ It scrolls vertically.
 
 Visit out website for more information about the app: [http://quartermaster.io](http://quartermaster.io)
 
-Of you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
+If you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
 
 For general feedback and feature requests: [feedback@quartermaster.io](mailto:help@quartermaster.io)
+
+#### Developers
+
+Jami Moubry - [email](mailto:sean+quartermaster@moubry.com) [linkedin](http://www.linkedin.com/in/jamimoubry) [twitter](https://twitter.com/_jami)
+
+Sean Moubry - [email](mailto:sean+quartermaster@moubry.com) [linkedin](http://www.linkedin.com/in/moubry) [twitter](https://twitter.com/ethicalsean)
 
 ### Last one.
 
