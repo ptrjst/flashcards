@@ -21,7 +21,9 @@ Now, you're getting the hang of it.
 
 ### Almost done.
 
-Notice how this is a long card—it scrolls vertically.
+Notice how this is a long card.
+
+It scrolls vertically.
 
 #### Contact Information
 
