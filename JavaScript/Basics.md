@@ -101,7 +101,7 @@ The convention is that constructor functions should begin with a capital letter.
 
 ### Developers are always frustrated with DOM methods. What's the deal with that?
 
-DOM methods are nightmares: getElementById, getElementsByTagName (riddled with IE bugs - .length gets overwritten in IE if an element with an ID="length" is found). John Resig gave a great talk called The DOM Is a Mess. If there's a DOM method, there's probably a problem with it somewhere, in some capacity.
+DOM methods are nightmares: `getElementById`, `getElementsByTagName` (riddled with IE bugs and `.length` gets overwritten in IE if an element with an `ID="length"` is found). John Resig gave a great talk called [The DOM Is a Mess](http://ejohn.org/blog/the-dom-is-a-mess/). If there's a DOM method, there's probably a problem with it somewhere, in some capacity.
 
 ### There are two ways to comment code—what are they, which one is bad, and why?
 
