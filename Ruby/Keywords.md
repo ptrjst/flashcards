@@ -65,7 +65,7 @@ A boolean logic function that asks whether or not a targeted expression refers t
 
 ### do
 
-Paired with end, this can delimit a code block, much like curly braces; however, curly braces retain higher precedence.
+Paired with `end`, this can delimit a code block, much like curly braces; however, curly braces retain higher precedence.
 
 ### each
 
