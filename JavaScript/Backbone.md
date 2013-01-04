@@ -144,11 +144,14 @@ You'd capitalize "Album" as a convention, just to show that it is an abstract ob
 
 ### What are the three common render tasks for a `Backbone.View`?
 
-1. **Combine template and data** -- Use the model's data with an existing HTML template, often setup in the View's `initialize()` method.
+1. **Combine template and data**  
+   Use the model's data with an existing HTML template, often setup in the View's `initialize()` method.
 
-2. **Append to the DOM**  -- Append, insert, or otherwise augment the existing HTML document with the newly rendered template output.
+2. **Append to the DOM**  
+   Append, insert, or otherwise augment the existing HTML document with the newly rendered template output.
 
-3. **Return `this`** -- So other methods can be called.
+3. **Return `this`**  
+   So other methods can be called.
 
 ### What special root properties ("options") do `Backbone.View` objects have?
 
@@ -193,13 +196,13 @@ Views will react to user actions by modifying data and letting the changes event
 
 ### What's the typical routine of a `Backbone.Model`?
 
-- **Models store data**<br>
+- **Models store data**  
   Persistent or temporary.
-- **Views render model data**<br>
+- **Views render model data**  
   Using templates or directly.
-- **Models trigger change events**<br>
+- **Models trigger change events**  
   Handled by the framework when you call `set`.
-- **Views observe and re-render**<br>
+- **Views observe and re-render**  
   The UI is updated instantly. 
 
 ### What does a `Backbone.Collection` object do?
