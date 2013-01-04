@@ -19,10 +19,22 @@ Or you can swipe right-to-left to progress to the next card.
 
 Now, you're getting the hang of it.
 
+### Almost done.
+
+Notice how this is a long card—it scrolls vertically.
+
+#### Contact Information
+
+Visit out website for more information about the app: [http://quartermaster.io](http://quartermaster.io)
+
+Of you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
+
+For general feedback and feature requests: [feedback@quartermaster.io](mailto:help@quartermaster.io)
+
 ### Last one.
 
 Okay, that's really all there is to know about the app. Pretty straight forward.
 
-If you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
+Next steps: Tap your phone's back button to return to this deck's description and once more to return to the Library.
 
-For general feedback and feature requests: [feedback@quartermaster.io](mailto:help@quartermaster.io)
+Tap the plus button from the Library to add new decks from the Catalog.
