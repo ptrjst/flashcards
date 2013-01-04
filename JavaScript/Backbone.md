@@ -130,18 +130,10 @@ You'd capitalize "Album" as a convention, just to show that it is an abstract ob
 
 ### What are the four most common `Backbone.Model` methods?
 
-1. get(key)
-2. set({key:value})
-
-1 & 2 modify attributes.
-
-3. isNew()
-
-Returns true if model is not persistent (has not been saved).
-
-4. toJSON()
-
-Returns attribute keys and values, ready for serialization.
+1. `get(key)` to modify attributes
+2. `set({key:value})` to modify attributes
+3. `isNew()` which returns `true` if model is not persistent (has not been saved).
+4. `toJSON()` which returns attribute keys and values, ready for serialization.
 
 ### What does a `Backbone.View` object do?
 
@@ -152,17 +144,11 @@ Returns attribute keys and values, ready for serialization.
 
 ### What are the three common render tasks for a `Backbone.View`?
 
-1. Combine template and data
+1. **Combine template and data** -- Use the model's data with an existing HTML template, often setup in the View's `initialize()` method.
 
-Use the model's data with an existing HTML template, often setup in the View's initialize() method.
+2. **Append to the DOM**  -- Append, insert, or otherwise augment the existing HTML document with the newly rendered template output.
 
-2. Append to the DOM
-
-Append, insert, or otherwise augment the existing HTML document with the newly rendered template output.
-
-3. Return `this`
-
-So other methods can be called.
+3. **Return `this`** -- So other methods can be called.
 
 ### What special root properties ("options") do `Backbone.View` objects have?
 
@@ -299,11 +285,11 @@ No. You have to do it.
 1. **Network** - Load data from the server with a network request for JSON data. Fires the 'reset' event when done.
 
     Albums.fetch()
-    
+
 2. **Preload** - Call 'reset' directly with an array of key/value objects. Fires the 'reset' event when done.
 
     Albums.reset([{ title: '...' }])
-    
+
 ### What are the three key parts of a router?
 
 1. **routes** - Keys and values mapping URLs to custom route handler methods.
@@ -321,7 +307,7 @@ No. You have to do it.
 2. **Push State** - This is optional, uses traditional-style URLs.
 
     Backbone.history.start({ pushState: true });
-    
+
 ### How do you navigate in the console?
 
 Where `App` is an object that extends `Backbone.Router`, to navigate to `http://yourapp.dev/#albums`:
