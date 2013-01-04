@@ -49,7 +49,7 @@ Terminates a `while` or `until` loop, or a method inside a block. Gives an uncon
 
 ### case
 
-starts a case statement; this block of code will output a result and end when it's terms are fulfilled, which are defined with when or else.
+Starts a `case` statement; this block of code will output a result and end when it's terms are fulfilled, which are defined with `when` or `else`.
 
 ### class
 
@@ -85,7 +85,7 @@ Gives an "otherwise" within a function, if-statement, or for-loop, i.e. if cats 
 
 ### elsif
 
-Much like else, but has a higher precedence, and is usually paired with terms.
+Much like `else`, but has a higher precedence, and is usually paired with terms.
 
 ### END
 
@@ -97,7 +97,7 @@ Marks the end of a while, until, begin, if, def, class, or other keyword-based, 
 
 ### ensure
 
-Marks the final, optional clause of a begin/end block, generally in cases where the block also contains a rescue clause. The code in this term's clause is guaranteed to be executed, whether control flows to a rescue block or not.
+Marks the final, optional clause of a `begin`/`end` block, generally in cases where the block also contains a rescue clause. The code in this term's clause is guaranteed to be executed, whether control flows to a rescue block or not.
 
 ### false
 
@@ -133,7 +133,7 @@ Boolean negation. i.e. not true # false, not 10 # false, not false # true.
 
 ### or
 
-Boolean or. Differs from || in that or has lower precedence.
+Boolean `or` differs from `||` in that or has lower precedence.
 
 ### redo
 
@@ -141,7 +141,7 @@ Causes unconditional re-execution of a code block, with the same parameter bindi
 
 ### rescue
 
-Designates an exception-handling clause that can occur either inside a begin<code>/<code>end block, inside a method definition (which implies begin), or in modifier position (at the end of a statement).
+Designates an exception-handling clause that can occur either inside a `begin`/`end` block, inside a method definition (which implies begin), or in modifier position (at the end of a statement).
 
 ### retry
 
@@ -165,7 +165,7 @@ Optional component of conditional statements (if, unless, when). Never mandatory
 
 ### true
 
-The sole instance of the special class TrueClass. true encapsulates Boolean truth; however, <emph>all</emph> objects in Ruby are true in the Boolean sense (informally, they cause an if test to succeed), with the exceptions of false and nil.
+The sole instance of the special class `TrueClass`. `true` encapsulates Boolean truth; however, *all* objects in Ruby are true in the Boolean sense (informally, they cause an if test to succeed), with the exceptions of false and nil.
 
 ### undef
 
