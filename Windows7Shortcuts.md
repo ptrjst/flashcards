@@ -8,7 +8,7 @@ Pressing the Alt key in some programs, such as Paint and WordPad, shows commands
 
 You can also create new keyboard shortcuts to open programs. For more information, see [Create keyboard shortcuts to open programs](http://windows.microsoft.com/en-US/windows7/Create-keyboard-shortcuts-to-open-programs).
 
-Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts)
+Source: [Windows 7](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts), [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
 
 ## General keyboard shortcuts
 
@@ -37,7 +37,9 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 * Select all items in a document or window: `Ctrl + A`
 
 ### Search
-`F3` or `Windows logo key`  ![Windows Logo Key][win_logo] + `F`
+`F3`  
+or `Windows logo key`  ![Windows Logo Key][win_logo] ` + F`   
+or `Windows logo key`  ![Windows Logo Key][win_logo] ` + start typing`
 
 ### Close the active item, or exit the active program
 `Alt + F4`
@@ -52,7 +54,7 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 `Ctrl + Alt + Tab`
 
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
-`Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
+`Windows logo key`  ![Windows Logo Key][win_logo] `+ Tab`
 
 ### Use the arrow keys to cycle through programs on the taskbar by using Aero Flip 3-D
 `Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + Tab`
@@ -204,4 +206,50 @@ Counter-Clockwise: `Ctrl + Comma (,)`
 ### Cycle through the windows of the taskbar group
 `Ctrl + Click` on a grouped taskbar button
 
+## Windows 8 Only
+
+### Open the charms
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + C`
+
+### Open the Share charm
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + H`
+
+### Open the Settings charm
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + I`
+
+### Open the Devices charm
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + K`
+
+### Lock the screen orientation (portrait or landscape)
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + O`
+
+### Open the Search charm to search apps
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Q`
+
+### Open the Search charm to search files
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + F`
+
+### Open the Search charm to search settings
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + W`
+
+### Show the commands available in the app
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Z`
+
+### Cycle through open apps (except desktop apps)
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Tab`
+
+### Cycle through open apps (except desktop apps) and snap them as they are cycled
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Ctrl + Tab`
+
+### Move the Start screen and apps to the monitor on the left/right 
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Page Up`
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Page Down`
+(Apps in the desktop won’t change monitors)
+
+### Snap an app to the left/right
+Left: `Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Period (.)`
+Right: `Windows logo key`  ![Windows Logo Key][win_logo] ` + Period (.)`
+
 [win_logo]: http://quartermaster.io/img/windowslogo.png
+
+
