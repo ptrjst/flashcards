@@ -9,6 +9,7 @@ Pressing the Alt key in some programs, such as Paint and WordPad, shows commands
 You can also create new keyboard shortcuts to open programs. For more information, see [Create keyboard shortcuts to open programs](http://windows.microsoft.com/en-US/windows7/Create-keyboard-shortcuts-to-open-programs).
 
 Source:
+
 * [Windows 7](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts)
 * [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
 
@@ -16,7 +17,6 @@ Source:
 
 ### Shortcuts you should already know (help, copy, cut, paste, undo, redo, rename)
 <table>
-<tr><th>Action</th><th>Key</th></tr>
 <tr><td>Display Help</td><td>F1</td></tr>
 <tr><td>Copy</td><td>Ctrl + C</td></tr>
 <tr><td>Cut</td><td>Ctrl + X</td></tr>
@@ -27,27 +27,35 @@ Source:
 </table>
 
 ### Cursor shortcuts
-* Move the cursor to the beginning of the next word: `Ctrl + Right Arrow`
-* Move the cursor to the beginning of the previous word: `Ctrl + Left Arrow`
-* Move the cursor to the beginning of the next paragraph: `Ctrl + Down Arrow`
-* Move the cursor to the beginning of the previous paragraph: `Ctrl + Up Arrow`
+* Move the cursor to the beginning of the next word:  
+  `Ctrl + Right Arrow`
+* Move the cursor to the beginning of the previous word:  
+  `Ctrl + Left Arrow`
+* Move the cursor to the beginning of the next paragraph:  
+  `Ctrl + Down Arrow`
+* Move the cursor to the beginning of the previous paragraph:  
+  `Ctrl + Up Arrow`
 
 ### Selection shortcuts
-* Select a block of text: `Ctrl + Shift with arrow key`
-* Select more than one item in a window or on the desktop, or select text within a document: `Shift with any arrow key`
-* Select multiple individual items in a window or on the desktop: `Ctrl with any arrow key + Spacebar`
-* Select all items in a document or window: `Ctrl + A`
+* Select a block of text:  
+  `Ctrl + Shift with arrow key`
+* Select more than one item in a window or on the desktop, or select text within a document:  
+  `Shift with any arrow key`
+* Select multiple individual items in a window or on the desktop:  
+  `Ctrl with any arrow key + Spacebar`
+* Select all items in a document or window:  
+  `Ctrl + A`
 
 ### Search
 `F3`  
-or `Windows logo key + F`  
-or `Windows logo key + start typing`  
+or  `Windows logo key + F`  
+or  `Windows logo key + start typing`  
 
 ### Close the active item, or exit the active program
 `Alt + F4`
 
 ### Close the active document (in programs that allow you to have multiple documents open simultaneously)
-`Ctrl + F4` or `Ctrl + W`
+`Ctrl + F4`  or  `Ctrl + W`
 
 ### Switch between open windows
 `Alt + Tab`
@@ -56,7 +64,7 @@ or `Windows logo key + start typing`
 `Ctrl + Alt + Tab`
 
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
-`Windows logo key+ Tab`
+`Windows logo key + Tab`
 
 ### Use the arrow keys to cycle through programs on the taskbar by using Aero Flip 3-D
 `Ctrl + Windows logo key + Tab`
