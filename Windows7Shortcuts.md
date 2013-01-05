@@ -75,6 +75,33 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 ### Open Task Manager
 `Ctrl + Shift + Esc`
 
+## Windows logo key shortcuts
 
+### Open or close the Start menu
+`Windows logo key`  ![Windows Logo Key][win_logo]
+
+### Display the System Properties dialog box
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Pause`
+
+### Display the desktop
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + D`
+
+### Minimize all windows
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + M`
+
+### Restore minimized windows to the desktop
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + M`
+
+### Open Computer
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + E`
+
+### Lock your computer or switch users
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + L`
+
+### Open the Run dialog box
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + R`
+
+### Cycle through programs on the taskbar
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + T`
 
 [win_logo]: http://quartermaster.io/img/windowslogo.png
