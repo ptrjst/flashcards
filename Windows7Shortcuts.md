@@ -8,7 +8,9 @@ Pressing the Alt key in some programs, such as Paint and WordPad, shows commands
 
 You can also create new keyboard shortcuts to open programs. For more information, see [Create keyboard shortcuts to open programs](http://windows.microsoft.com/en-US/windows7/Create-keyboard-shortcuts-to-open-programs).
 
-Source: [Windows 7, ](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts) [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
+Source:
+* [Windows 7](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts)
+* [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
 
 ## General keyboard shortcuts
 
