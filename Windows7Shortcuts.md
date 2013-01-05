@@ -38,8 +38,8 @@ Source: [Windows 7, ](http://windows.microsoft.com/en-US/windows7/Keyboard-short
 
 ### Search
 `F3`  
-or `Windows logo key + F`   
-or `Windows logo key + start typing`
+or `Windows logo key + F`  
+or `Windows logo key + start typing`  
 
 ### Close the active item, or exit the active program
 `Alt + F4`
@@ -80,7 +80,7 @@ or `Windows logo key + start typing`
 ## Windows logo key shortcuts
 
 ### Open or close the Start menu
-`Windows logo key`  ![Windows Logo Key][win_logo]
+`Windows logo key`
 
 ### Display the System Properties dialog box
 `Windows logo key + Pause`
@@ -128,7 +128,7 @@ or `Windows logo key + start typing`
 `Windows logo key + Up Arrow`
 
 ### Maximize the window to the left or right side of the screen
-`Windows logo key + Left Arrow`
+`Windows logo key + Left Arrow`  
 `Windows logo key + Right Arrow`
 
 ### Minimize the window
@@ -141,7 +141,7 @@ or `Windows logo key + start typing`
 `Windows logo key + Shift + Up Arrow`
 
 ### Move a window from one monitor to another
-`Windows logo key + Shift + Left Arrow`
+`Windows logo key + Shift + Left Arrow`  
 `Windows logo key + Shift + Right Arrow`
 
 ### Choose a presentation display mode
@@ -165,7 +165,7 @@ or `Windows logo key + start typing`
 `F11`
 
 ### Rotate a picture
-Clockwise: `Ctrl + Period (.)`
+Clockwise: `Ctrl + Period (.)`  
 Counter-Clockwise: `Ctrl + Comma (,)`
 
 ### Open the Properties dialog box for the selected item
@@ -242,10 +242,10 @@ Counter-Clockwise: `Ctrl + Comma (,)`
 `Windows logo key + Ctrl + Tab`
 
 ### Move the Start screen and apps to the monitor on the left/right 
-`Windows logo key + Page Up`
-`Windows logo key + Page Down`
+`Windows logo key + Page Up`  
+`Windows logo key + Page Down`  
 (Apps in the desktop won’t change monitors)
 
 ### Snap an app to the left/right
-Left: `Windows logo key + Shift + Period (.)`
+Left: `Windows logo key + Shift + Period (.)`  
 Right: `Windows logo key + Period (.)`
