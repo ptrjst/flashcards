@@ -1,9 +1,9 @@
 Tradecraft
 ==============
 
-A spy is a covert operative who gathers information about an organization or society. The skill a spy aquires through experience in espionage is known as [tradecraft](http://en.wikipedia.org/wiki/Tradecraft).
+A spy is a covert operative who gathers information about an organization or society. The skill a spy acquires through experience in espionage is known as [tradecraft](http://en.wikipedia.org/wiki/Tradecraft).
 
-### caldestine operation
+### clandestine operation
 
 A clandestine operation is an intelligence or military operation carried out in such a way that the operation goes unnoticed by the general population.
 
@@ -26,7 +26,7 @@ K.G.B. is a Russian acronym. The English translation is Committee for State Secu
 
 Your one point of contact, as a spy. You get your assignments from your controller.
 
-Compartmentalization is a big part of the relationship with your controller. They'll probably go by an alliace. You may never even actually meet them—just communicate via dead drops.
+Compartmentalization is a big part of the relationship with your controller. They'll probably go by an alias. You may never even actually meet them—just communicate via dead drops.
 
 ### cover
 
@@ -36,7 +36,7 @@ A cover is supported by a legend.
 
 ### wetwork
 
-Wetwork is a euphenism for murder or assassination, alluding to spilling blood.
+Wetwork is a euphemism for murder or assassination, alluding to spilling blood.
 
 The origin of "wetwork" is from the Russian Russian expression "wet job" (mokroye delo/мокрое дело). It's used by the KGB and can be traced to at least the 19th century from Russian criminal slang (fenya, muzyka) and originally meant robbery that involved murder, i.e., spilling blood.
 
@@ -77,7 +77,7 @@ http://en.wikipedia.org/wiki/KGB
 
 ### How to expose a spy
 
-Turn 'em in. Preferrably to the country/organization they're spying on.
+Turn 'em in. Preferably to the country/organization they're spying on.
 
 A person may receive money for turning in a suspected spy to the FBI.
 
@@ -87,7 +87,7 @@ A common tactic for recruiting people to spy against their own country.
 
 ### tech int
 
-Technilogical intellgience.
+Technological intelligence.
 
 - Spy planes
 - Satellites
@@ -144,7 +144,7 @@ Mata Hari was an exotic dancer accused by the French of spying for Germany durin
 
 ### Josephine Baker
 
-Josephine Baker was an American jazz musician who smuggled secrets for the French Resistance during World War II using invisible ink on sheet music. Baker, an American expatriate living in Paris, was awarded the French Legion of Honor for her serivce. She eventually became a French citizen.
+Josephine Baker was an American jazz musician who smuggled secrets for the French Resistance during World War II using invisible ink on sheet music. Baker, an American expatriate living in Paris, was awarded the French Legion of Honor for her service. She eventually became a French citizen.
 
 ### Kim Philby
 
