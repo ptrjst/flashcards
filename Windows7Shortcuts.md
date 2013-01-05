@@ -13,9 +13,8 @@ Source: http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts
 ## General keyboard shortcuts
 
 ### Search
-`F3`
-or
-`Windows logo key`  ![Windows Logo Key][win_logo] + `F`
+
+`F3` or `Windows logo key`  ![Windows Logo Key][win_logo] + `F`
 
 ### Switch between open windows
 `Alt + Tab`
@@ -24,7 +23,7 @@ or
 `Ctrl + Alt + Tab`
 
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
-`Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
+    `Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
 
 
 
