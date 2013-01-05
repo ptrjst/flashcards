@@ -209,7 +209,7 @@ Wizards can generate reams of code. Make sure you understand all of it before yo
 
 Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
 
-### Workwith a User to Think Like a User
+### Work With a User to Think Like a User
 
 It's the best way to gain insight into how the system will really be used.
 
