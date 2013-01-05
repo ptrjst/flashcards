@@ -1,4 +1,4 @@
-# Windows 7 Keyboard Shortcuts
+# Windows 7 and 8 Keyboard Shortcuts
 
 Keyboard shortcuts are combinations of two or more keys that, when pressed, can be used to perform a task that would typically require a mouse or other pointing device. Keyboard shortcuts can make it easier to interact with your computer, saving you time and effort as you work with Windows and other programs.
 
@@ -190,5 +190,18 @@ Counter-Clockwise: `Ctrl + Comma (,)`
 ### Select the search box
 `Ctrl + E` or `Ctrl + F`
 
+## Taskbar shortcuts
+
+### Open another instance of a program
+`Shift + Click` on a taskbar button
+
+### Open a program as an administrator
+`Ctrl + Shift + Click` on a taskbar button
+
+### Show the window menu for the program
+`Shift + Right-click` on a taskbar button
+
+### Cycle through the windows of the taskbar group
+`Ctrl + Click` on a grouped taskbar button
 
 [win_logo]: http://quartermaster.io/img/windowslogo.png
