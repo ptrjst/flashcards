@@ -27,7 +27,7 @@ It scrolls vertically.
 
 #### Contact Information
 
-Visit out website for more information about the app: [http://quartermaster.io](http://quartermaster.io)
+Visit our website for more information about the app: [http://quartermaster.io](http://quartermaster.io)
 
 If you have any questions, please feel free to email us: [help@quartermaster.io](mailto:help@quartermaster.io)
 
