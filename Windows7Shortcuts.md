@@ -43,7 +43,7 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 `Alt + F4`
 
 ### Close the active document (in programs that allow you to have multiple documents open simultaneously)
-`Ctrl + F4`
+`Ctrl + F4` or `Ctrl + W`
 
 ### Switch between open windows
 `Alt + Tab`
@@ -103,5 +103,54 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 
 ### Cycle through programs on the taskbar
 `Windows logo key`  ![Windows Logo Key][win_logo] ` + T`
+
+### Start the program pinned to the taskbar in the position indicated by the number. If the program is already running, switch to that program.
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+
+### Start a new instance of the program pinned to the taskbar in the position indicated by the number.
+`Shift + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+
+### Switch to the last active window of the program pinned to the taskbar in the position indicated by the number
+`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+
+### Open the Jump List for the program pinned to the taskbar in the position indicated by the number
+`Alt + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+
+### Switch to the program that displayed a message in the notification area
+`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + B`
+
+### Preview the desktop
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Spacebar`
+
+### Maximize the window
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Up Arrow`
+
+### Maximize the window to the left or right side of the screen
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Left Arrow`
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Right Arrow`
+
+### Minimize the window
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Down Arrow`
+
+### Minimize all but the active window
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Home`
+
+### Stretch the window to the top and bottom of the screen
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Up Arrow`
+
+### Move a window from one monitor to another
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Left Arrow`
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Right Arrow`
+
+### Choose a presentation display mode
+`Windows logo key`  ![Windows Logo Key][win_logo] ` + P`
+
+## Windows Explorer shortcuts
+
+### Open a new window
+`Ctrl + N`
+
+### Create a new folder
+`Ctrl + Shift + N`
 
 [win_logo]: http://quartermaster.io/img/windowslogo.png
