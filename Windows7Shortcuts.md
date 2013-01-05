@@ -12,9 +12,38 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 
 ## General keyboard shortcuts
 
-### Search
+### Shortcuts you should already know (help, copy, cut, paste, undo, redo, rename)
+<table>
+<tr><th>Action</th><th>Key</th></tr>
+<tr><td>Display Help</td><td>F1</td></tr>
+<tr><td>Copy</td><td>Ctrl + C</td></tr>
+<tr><td>Cut</td><td>Ctrl + X</td></tr>
+<tr><td>Paste</td><td>Ctrl + V</td></tr>
+<tr><td>Undo</td><td>Ctrl + Z</td></tr>
+<tr><td>Redo</td><td>Ctrl + Y</td></tr>
+<tr><td>Rename</td><td>F2</td></tr>
+</table>
 
+### Cursor shortcuts
+* Move the cursor to the beginning of the next word: `Ctrl + Right Arrow`
+* Move the cursor to the beginning of the previous word: `Ctrl + Left Arrow`
+* Move the cursor to the beginning of the next paragraph: `Ctrl + Down Arrow`
+* Move the cursor to the beginning of the previous paragraph: `Ctrl + Up Arrow`
+
+### Selection shortcuts
+* Select a block of text: `Ctrl + Shift with arrow key`
+* Select more than one item in a window or on the desktop, or select text within a document: `Shift with any arrow key`
+* Select multiple individual items in a window or on the desktop: `Ctrl with any arrow key + Spacebar`
+* Select all items in a document or window: `Ctrl + A`
+
+### Search
 `F3` or `Windows logo key`  ![Windows Logo Key][win_logo] + `F`
+
+### Close the active item, or exit the active program
+`Alt + F4`
+
+### Close the active document (in programs that allow you to have multiple documents open simultaneously)
+`Ctrl + F4`
 
 ### Switch between open windows
 `Alt + Tab`
@@ -25,6 +54,27 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
 `Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
 
+### Use the arrow keys to cycle through programs on the taskbar by using Aero Flip 3-D
+`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + Tab`
+
+### Cycle through items in the order in which they were opened
+`Alt + Esc`
+
+### Cycle through screen elements in a window or on the desktop
+`F6`
+
+### Display the address bar list in Windows Explorer
+`F4`
+
+### Open the Start menu
+`Ctrl + Esc`
+
+### Activate the menu bar in the active program
+`F10`
+
+### Open Task Manager
+`Ctrl + Shift + Esc`
 
 
-[win_logo]: http://res2.windows.microsoft.com/resbox/en/Windows%207/main/0d8a4985-b5e2-41a6-a1b6-e4bafb517937_92.png
+
+[win_logo]: http://quartermaster.io/img/windowslogo.png
