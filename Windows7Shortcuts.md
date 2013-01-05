@@ -6,9 +6,9 @@ Most programs also provide accelerator keys that can make it easier to work with
 
 Pressing the Alt key in some programs, such as Paint and WordPad, shows commands that are labeled with additional keys that you can press to use them.
 
-You can also create new keyboard shortcuts to open programs. For more information, see Create keyboard shortcuts to open programs.
+You can also create new keyboard shortcuts to open programs. For more information, see [Create keyboard shortcuts to open programs](http://windows.microsoft.com/en-US/windows7/Create-keyboard-shortcuts-to-open-programs).
 
-Source: http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts
+Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts)
 
 ## General keyboard shortcuts
 
@@ -23,7 +23,7 @@ Source: http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts
 `Ctrl + Alt + Tab`
 
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
-    `Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
+`Windows logo key`  ![Windows Logo Key][win_logo] + `Tab`
 
 
 
