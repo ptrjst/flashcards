@@ -1,4 +1,4 @@
-# Windows 7 and 8 Keyboard Shortcuts
+# Windows 7 & 8 Keyboard Shortcuts
 
 Keyboard shortcuts are combinations of two or more keys that, when pressed, can be used to perform a task that would typically require a mouse or other pointing device. Keyboard shortcuts can make it easier to interact with your computer, saving you time and effort as you work with Windows and other programs.
 
