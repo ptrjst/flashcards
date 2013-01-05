@@ -8,7 +8,7 @@ Pressing the Alt key in some programs, such as Paint and WordPad, shows commands
 
 You can also create new keyboard shortcuts to open programs. For more information, see [Create keyboard shortcuts to open programs](http://windows.microsoft.com/en-US/windows7/Create-keyboard-shortcuts-to-open-programs).
 
-Source: [Windows 7](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts), [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
+Source: [Windows 7, ](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcuts) [Windows 8](http://windows.microsoft.com/en-US/windows-8/new-keyboard-shortcuts#1TC=t1)
 
 ## General keyboard shortcuts
 
@@ -38,8 +38,8 @@ Source: [Windows 7](http://windows.microsoft.com/en-US/windows7/Keyboard-shortcu
 
 ### Search
 `F3`  
-or `Windows logo key`  ![Windows Logo Key][win_logo] ` + F`   
-or `Windows logo key`  ![Windows Logo Key][win_logo] ` + start typing`
+or `Windows logo key + F`   
+or `Windows logo key + start typing`
 
 ### Close the active item, or exit the active program
 `Alt + F4`
@@ -54,10 +54,10 @@ or `Windows logo key`  ![Windows Logo Key][win_logo] ` + start typing`
 `Ctrl + Alt + Tab`
 
 ### Cycle through programs on the taskbar by using Aero Flip 3-D
-`Windows logo key`  ![Windows Logo Key][win_logo] `+ Tab`
+`Windows logo key+ Tab`
 
 ### Use the arrow keys to cycle through programs on the taskbar by using Aero Flip 3-D
-`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + Tab`
+`Ctrl + Windows logo key + Tab`
 
 ### Cycle through items in the order in which they were opened
 `Alt + Esc`
@@ -83,69 +83,69 @@ or `Windows logo key`  ![Windows Logo Key][win_logo] ` + start typing`
 `Windows logo key`  ![Windows Logo Key][win_logo]
 
 ### Display the System Properties dialog box
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Pause`
+`Windows logo key + Pause`
 
 ### Display the desktop
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + D`
+`Windows logo key + D`
 
 ### Minimize all windows
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + M`
+`Windows logo key + M`
 
 ### Restore minimized windows to the desktop
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + M`
+`Windows logo key + Shift + M`
 
 ### Open Computer
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + E`
+`Windows logo key + E`
 
 ### Lock your computer or switch users
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + L`
+`Windows logo key + L`
 
 ### Open the Run dialog box
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + R`
+`Windows logo key + R`
 
 ### Cycle through programs on the taskbar
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + T`
+`Windows logo key + T`
 
 ### Start the program pinned to the taskbar in the position indicated by the number. If the program is already running, switch to that program.
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+`Windows logo key + number`
 
 ### Start a new instance of the program pinned to the taskbar in the position indicated by the number.
-`Shift + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+`Shift + Windows logo key + number`
 
 ### Switch to the last active window of the program pinned to the taskbar in the position indicated by the number
-`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+`Ctrl + Windows logo key + number`
 
 ### Open the Jump List for the program pinned to the taskbar in the position indicated by the number
-`Alt + Windows logo key`  ![Windows Logo Key][win_logo] ` + number`
+`Alt + Windows logo key + number`
 
 ### Switch to the program that displayed a message in the notification area
-`Ctrl + Windows logo key`  ![Windows Logo Key][win_logo] ` + B`
+`Ctrl + Windows logo key + B`
 
 ### Preview the desktop
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Spacebar`
+`Windows logo key + Spacebar`
 
 ### Maximize the window
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Up Arrow`
+`Windows logo key + Up Arrow`
 
 ### Maximize the window to the left or right side of the screen
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Left Arrow`
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Right Arrow`
+`Windows logo key + Left Arrow`
+`Windows logo key + Right Arrow`
 
 ### Minimize the window
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Down Arrow`
+`Windows logo key + Down Arrow`
 
 ### Minimize all but the active window
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Home`
+`Windows logo key + Home`
 
 ### Stretch the window to the top and bottom of the screen
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Up Arrow`
+`Windows logo key + Shift + Up Arrow`
 
 ### Move a window from one monitor to another
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Left Arrow`
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Right Arrow`
+`Windows logo key + Shift + Left Arrow`
+`Windows logo key + Shift + Right Arrow`
 
 ### Choose a presentation display mode
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + P`
+`Windows logo key + P`
 
 ## Windows Explorer shortcuts
 
@@ -209,47 +209,43 @@ Counter-Clockwise: `Ctrl + Comma (,)`
 ## Windows 8 Only
 
 ### Open the charms
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + C`
+`Windows logo key + C`
 
 ### Open the Share charm
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + H`
+`Windows logo key + H`
 
 ### Open the Settings charm
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + I`
+`Windows logo key + I`
 
 ### Open the Devices charm
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + K`
+`Windows logo key + K`
 
 ### Lock the screen orientation (portrait or landscape)
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + O`
+`Windows logo key + O`
 
 ### Open the Search charm to search apps
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Q`
+`Windows logo key + Q`
 
 ### Open the Search charm to search files
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + F`
+`Windows logo key + F`
 
 ### Open the Search charm to search settings
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + W`
+`Windows logo key + W`
 
 ### Show the commands available in the app
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Z`
+`Windows logo key + Z`
 
 ### Cycle through open apps (except desktop apps)
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Tab`
+`Windows logo key + Tab`
 
 ### Cycle through open apps (except desktop apps) and snap them as they are cycled
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Ctrl + Tab`
+`Windows logo key + Ctrl + Tab`
 
 ### Move the Start screen and apps to the monitor on the left/right 
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Page Up`
-`Windows logo key`  ![Windows Logo Key][win_logo] ` + Page Down`
+`Windows logo key + Page Up`
+`Windows logo key + Page Down`
 (Apps in the desktop won’t change monitors)
 
 ### Snap an app to the left/right
-Left: `Windows logo key`  ![Windows Logo Key][win_logo] ` + Shift + Period (.)`
-Right: `Windows logo key`  ![Windows Logo Key][win_logo] ` + Period (.)`
-
-[win_logo]: http://quartermaster.io/img/windowslogo.png
-
-
+Left: `Windows logo key + Shift + Period (.)`
+Right: `Windows logo key + Period (.)`
