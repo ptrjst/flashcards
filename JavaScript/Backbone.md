@@ -45,7 +45,7 @@ Backbone.js gives structure to web applications by providing models with key-val
 
 ### Can jQuery, Underscore, and Backbone be loaded asynchronous—at the same time?
 
-No. Unfortunatly, these libraries must be loaded synchronously because they depend on each other existing in the global namespace.
+No. Unfortunately, these libraries must be loaded synchronously because they depend on each other existing in the global namespace.
 
 1. Modernizr
 2. jQuery
@@ -84,7 +84,7 @@ In Rails, HTML goes in a View. Backbone has Views, too—but that's not where th
 
 ### What is Eco?
 
-Referes to *.eco files for the Eco templating engine. It behaves similar to ERB (you can use ERB tags) but it's just Coffeescript. Commonly used in Backbone on Rails apps.
+Refers to *.eco files for the Eco templating engine. It behaves similar to ERB (you can use ERB tags) but it's just Coffeescript. Commonly used in Backbone on Rails apps.
 
 ### What is Underscore.js?
 
@@ -301,7 +301,7 @@ No. You have to do it.
 
 3. **Custom Route Handlers** - Add specific views to the document and load extra data (such as a specific date specified in the URL).
 
-### What are the two differeny ways Backbone routers handle URLs?
+### What are the two different ways Backbone routers handle URLs?
 
 1. **Hashmark** - This is the default.
 
