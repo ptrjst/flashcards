@@ -34,7 +34,7 @@ Other influences:
 
 ### Markdown is composed entirely of...
 
-Puntuation characters.
+Punctuation characters.
 
 ## Inline HTML
 
