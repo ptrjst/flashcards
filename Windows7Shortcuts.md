@@ -153,4 +153,42 @@ Source: [windows.microsoft.com](http://windows.microsoft.com/en-US/windows7/Keyb
 ### Create a new folder
 `Ctrl + Shift + N`
 
+### Go to the bottom of the active window
+`End`
+
+### Go to the top of the active window
+`Home`
+
+### Maximize or minimize the active window
+`F11`
+
+### Rotate a picture
+Clockwise: `Ctrl + Period (.)`
+Counter-Clockwise: `Ctrl + Comma (,)`
+
+### Open the Properties dialog box for the selected item
+`Alt + Enter`
+
+### Display the preview pane
+`Alt + P`
+
+### View the previous folder
+`Alt + Left Arrow` or `Backspace`
+
+### View the next folder
+`Alt + Right Arrow`
+
+### View the parent folder
+`Alt + Up Arrow`
+
+### Display all folders above the selected folder
+`Ctrl + Shift + E`
+
+### Select the address bar
+`Alt + D`
+
+### Select the search box
+`Ctrl + E` or `Ctrl + F`
+
+
 [win_logo]: http://quartermaster.io/img/windowslogo.png
