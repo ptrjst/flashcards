@@ -88,4 +88,4 @@ Write a single method that uses optional parameters.
 
 [New Features in C# 4.0 - Word Doc](http://code.msdn.microsoft.com/Visual-Studio-2010-Samples-31b491f3/file/46874/1/New%20features%20in%20CSharp%204.0.doc)
 
-[New C# Features in the .NET Framework 4](http://msdn.microsoft.com/en-us/magazine/ff796223.aspx) - MSDN
+[New C# Features in the .NET Framework 4 - MSDN](http://msdn.microsoft.com/en-us/magazine/ff796223.aspx)
