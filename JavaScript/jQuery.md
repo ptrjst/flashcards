@@ -30,21 +30,37 @@ Call `jQuery.noConflict()` to restore `$` to its original value.
 
 1. Pass a CSS selector (string) to it and it will return matching elements.  
 Optionally, you can pass an element or a jQuery object as a second argument, and it returns matching descendants.
+
+        var paragraphs = $("p");
+
 2. Pass an element, document, or window object to wrap the object in a jQuery object.
+
+        $(document)
+
 3. Pass a string of HTML text and it will return a jQuery object representing the element or elements.  
 Optionally, you can pass a document object as a second argument for the elements to be associated with.  
 You can also pass the names and values of attributes to set on the newly created elements as a second argument.
+
+        var img = $("<img/>", { src:url, alt:desc });
+
 4. Pass a function and that function will be invoked when the document has been loaded and the DOM is ready.  
 
-    jQuery(function() { // Invoked when document has loaded.
-        // All jQuery code goes here.
-    });
+        jQuery(function() { // Invoked when document has loaded.
+            // All jQuery code goes here.
+        });
+        
+    Old Syntax:
+
+        $(document).ready(myfunction);
+
+### When does jQuery trigger functions registered through $()?
+
+When the **DOMContentLoaded** event is fired, if supported. Otherwise, wehn the **load** event is fired.
 
 
 ### How do you get the set of `<div>` tags in a document?
 
     var divs = $("div");
-
 
 ### What is method chaining?
 
@@ -62,3 +78,5 @@ Highlights and quickly displays all hidden `<p>` tags that have the "more" CSS c
     $(".hide").click(function () { $(this).slideUp("slow"); });
 
 Registers an event handler on all elements that have the "hide" CSS class.
+
+
