@@ -3,8 +3,6 @@ C# 4.0
 
 This deck will bring you up-to-speed on the new C# features in the .NET Framework 4.
 
-Author: Jami Moubry
-
 ## Dynamic Binding
 
 ### What is dynamic typing?
@@ -17,7 +15,7 @@ A programming language is said to be **dynamically typed** when the majority of 
 
 A programming language is said to use **static typing** when type checking is performed during compile-time as opposed to run-time. Statically typed languages include Java, C, Fortran, Go, and Objective-C.
 
-*Source: [Wikipedia - Type System](http://en.wikipedia.org/wiki/Type_system#Static_typing)
+*Source: [Wikipedia - Type System](http://en.wikipedia.org/wiki/Type_system#Static_typing)*
 
 ### Is C# a static or dynamic typed language?
 
@@ -67,7 +65,7 @@ The type dynamic can be thought of as a special version of the type object, whic
 
 **Named arguments** are a way to provide an argument using the name of the parameter instead of relying on its order in the parameter list.
 
-### If you find yourself writing many overloads of a method with different combninations of parameters, what should you do instead?
+### If you find yourself writing many overloads of a method with different combinations of parameters, what should you do instead?
 
 Write a single method that uses optional parameters.
 
@@ -78,7 +76,7 @@ Write a single method that uses optional parameters.
       return x + y;
     }
 
-### How would you call the method `Foo(int x, int y = 1)` passing the minimum number of required paramters?
+### How would you call the method `Foo(int x, int y = 1)` passing the minimum number of required parameters?
 
     Foo(5);
 
