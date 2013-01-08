@@ -57,10 +57,17 @@ You can also pass the names and values of attributes to set on the newly created
 
 When the **DOMContentLoaded** event is fired, if supported. Otherwise, wehn the **load** event is fired.
 
-
 ### How do you get the set of `<div>` tags in a document?
 
     var divs = $("div");
+
+### How do you get all elements with id="surname"?
+
+    var surnames = $("#surname");
+    
+### How do you get all elements with the CSS class "warning"?
+
+    var warnings = $(".warning");
 
 ### What is method chaining?
 
