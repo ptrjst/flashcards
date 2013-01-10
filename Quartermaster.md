@@ -35,9 +35,9 @@ For general feedback and feature requests: [feedback@quartermaster.io](mailto:he
 
 #### Developers
 
-Jami Moubry - [email](mailto:sean+quartermaster@moubry.com) [linkedin](http://www.linkedin.com/in/jamimoubry) [twitter](https://twitter.com/_jami)
+Jami Moubry - [email](mailto:sean+quartermaster@moubry.com) | [linkedin](http://www.linkedin.com/in/jamimoubry) | [twitter](https://twitter.com/_jami)
 
-Sean Moubry - [email](mailto:sean+quartermaster@moubry.com) [linkedin](http://www.linkedin.com/in/moubry) [twitter](https://twitter.com/ethicalsean)
+Sean Moubry - [email](mailto:sean+quartermaster@moubry.com) | [linkedin](http://www.linkedin.com/in/moubry) | [twitter](https://twitter.com/ethicalsean)
 
 ### Last one.
 
