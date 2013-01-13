@@ -52,6 +52,10 @@ A detailed and thorough back story for your cover.
 
 E.g. you're super into fishing. So in your house, you'll keep heavily used fishing equipment. Or if you're posing as a Russian accountant, you need to learn the ins-and-outs of Russian tax law.
 
+### dagger shoes
+
+Shoes. With daggers that come out of them.
+
 ### dead drop
 
 Drop something in a public place. Send a signal to your controller. And they'll walk by later and pick it up.
