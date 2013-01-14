@@ -12,6 +12,12 @@ The [ruby-doc.org](http://ruby-doc.org/) Ruby documentation project is the prima
 
 > A keyword is a word that is special only in certain contexts but a reserved word is a special word that cannot be used as a user-defined name.
 
+### Where is the most definitive list of keywords located?
+
+The code of the Ruby project itself:
+
+https://github.com/ruby/ruby/blob/trunk/defs/keywords
+
 ### alias
 
 To create a another name for an existing method, operator, or global variable.
