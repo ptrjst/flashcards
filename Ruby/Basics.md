@@ -73,6 +73,8 @@ In the following RSpec example, the method named `be_empty` is known as a "predi
 
     array.should be_empty
 
+## Internals
+
 ### Where is the Ruby standard library located?
 
 You can find it on GitHub here:
@@ -82,3 +84,9 @@ https://github.com/ruby/ruby/tree/trunk/lib
 Its documentation is here:
 
 http://www.ruby-doc.org/stdlib-1.9.3/
+
+### What is the name of Ruby's virtual machine?
+
+YARV (Yet another Ruby VM)—it's the official interpreter for Ruby, starting with version 1.9.
+
+YARV was written by Koichi Sasada and is also known as KRI (Koichi's Ruby Interpreter).
