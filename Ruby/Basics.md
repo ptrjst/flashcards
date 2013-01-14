@@ -72,3 +72,13 @@ A predicate method is a Ruby method whose name ends with a question mark `?` and
 In the following RSpec example, the method named `be_empty` is known as a "predicate matcher":
 
     array.should be_empty
+
+### Where is the Ruby standard library located?
+
+You can find it on GitHub here:
+
+https://github.com/ruby/ruby/tree/trunk/lib
+
+Its documentation is here:
+
+http://www.ruby-doc.org/stdlib-1.9.3/

@@ -18,6 +18,8 @@ The code of the Ruby project itself:
 
 https://github.com/ruby/ruby/blob/trunk/defs/keywords
 
+This is as authoritative as it gets, people.
+
 ### alias
 
 To create a another name for an existing method, operator, or global variable.
