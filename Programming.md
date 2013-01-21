@@ -18,6 +18,14 @@ A binary operator is an operator which takes two arguments.
 
 For example, in `2 + 3` which become one receiver and one argument in a method call to `+`.
 
+### mutable
+
+Can change.
+
+### immutable
+
+Can't change.
+
 ### What are the two hard things in computer science?
 
 There are two hard things in computer science:
