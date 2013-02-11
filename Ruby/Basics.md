@@ -90,3 +90,16 @@ http://www.ruby-doc.org/stdlib-1.9.3/
 YARV (Yet another Ruby VM)—it's the official interpreter for Ruby, starting in Jan. 2007 with version 1.9.
 
 YARV was written by Koichi Sasada and is also known as KRI (Koichi's Ruby Interpreter).
+
+### What is `freeze`?
+
+`freeze` is a method on `Object` that prevents further modifications to an object. A `RunTime` error will be raised if modifications are attempted. There is no way to unfreeze an object. It returns `self`.
+
+    a = [ "a", "b", "c" ]
+    a.freeze
+    a << "z"
+
+produces:
+
+    prog.rb:3:in `<<': can't modify frozen array (RuntimeError)
+     from prog.rb:3
