@@ -17,9 +17,17 @@ jQuery is a JavaScript library that simplifies common tasks such as finding/mani
 * Functions for operating on a group of elements, rather than one at a time
 * Method chaining
 
+### How do you reference the jQuery library?
+
+    <script src="jquery-1.7.1.js"></script>
+
+### Where should you reference the jQuery library in an HTML page in order to get the best performance of the page?
+
+At the bottom of the page just before the closing body tag.
+
 ### What is the name and shortcut for the jQuery library function?
 
-Name: jQuery
+Name: jQuery  
 Shortcut: $
 
 ### How do you prevent conflicts when you are using `$` in your own code or using another library that uses `$`?
@@ -79,6 +87,12 @@ Method chaining is a technique where each method returns an object (usually the 
 
 Highlights and quickly displays all hidden `<p>` tags that have the "more" CSS class.
 
+### What does the following code do? `$("ul li").addClass("accent");`
+
+    $("ul li").addClass("accent");
+
+Adds the CSS class named "accent" to all unordered list items.
+
 ### What does the following code do? `$(".hide").click(function () { $(this).slideUp("slow"); });
 
 
@@ -86,4 +100,7 @@ Highlights and quickly displays all hidden `<p>` tags that have the "more" CSS c
 
 Registers an event handler on all elements that have the "hide" CSS class.
 
+### What are two things you should do to improve the performance of the jQuery library on production?
 
+1. Use a minified version of jQuery
+2. Use a CDN distributed version (such as from [Google](https://developers.google.com/speed/libraries/devguide#jquery))
