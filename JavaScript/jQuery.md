@@ -93,7 +93,7 @@ Highlights and quickly displays all hidden `<p>` tags that have the "more" CSS c
 
 Adds the CSS class named "accent" to all unordered list items.
 
-### What does the following code do? `$(".hide").click(function () { $(this).slideUp("slow"); });
+### What does the following code do? `$(".hide").click(function () { $(this).slideUp("slow"); });`
 
 
     $(".hide").click(function () { $(this).slideUp("slow"); });
