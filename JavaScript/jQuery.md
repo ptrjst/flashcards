@@ -5,6 +5,8 @@ jQuery is a JavaScript library that simplifies common tasks such as finding/mani
 
 The jQuery library focuses on queries, typically using CSS selectors to identify elements within the document.
 
+[jQuery API] (http://api.jquery.com)
+
 ### What is jQuery?
 
 jQuery is a JavaScript library that simplifies common tasks such as finding/manipulating the elements of a document and using Ajax to make dynamic HTTP requests.
@@ -100,7 +102,57 @@ Adds the CSS class named "accent" to all unordered list items.
 
 Registers an event handler on all elements that have the "hide" CSS class.
 
+### What does the `ready` function do and what does it look like?
+
+The `ready` function when used on `document` will execute the given function after the DOM has loaded.
+
+    $(document).ready(function() {
+        // code here
+    });
+    
+or
+
+    $(function() {
+        // code here
+    });
+
 ### What are two things you should do to improve the performance of the jQuery library on production?
 
 1. Use a minified version of jQuery
 2. Use a CDN distributed version (such as from [Google](https://developers.google.com/speed/libraries/devguide#jquery))
+
+## Traversal Methods
+
+### What does the `children('li')` method do?
+
+Gets immediate children of the parent that match the selector.
+
+### What does the `find('li')` method do?
+
+Gets descendants of the parent that match the selector.
+
+### What does the `first()` method do?
+
+Gets the first element in the set.
+
+### What does the `eq(n)` method do?
+
+Gets the nth element in the set. It is zero-based, so n=1 will return the second element.
+
+### What do the `next()` and `prev()` methods do?
+
+Gets the next or previous sibling element.
+
+### What do the `parent()` and `parents('li')` methods do?
+
+`parent()` gets the immediate parent of the element.
+`parents()` gets all of the parents/ancestors of the element that match the selector.
+
+### What does the `closest('li')` method do?
+
+Gets the element itself if it matches the selector, or the closest parent that matches the selector.
+
+
+
+
+
