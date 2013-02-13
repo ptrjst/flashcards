@@ -152,7 +152,7 @@ Gets the next or previous sibling element.
 
 Gets the element itself if it matches the selector, or the closest parent that matches the selector.
 
-
+## Events
 
 
 
