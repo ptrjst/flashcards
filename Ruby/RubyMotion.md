@@ -79,3 +79,55 @@ A predicate method is a Ruby method whose name ends with a question mark `?` and
 In the following RSpec example, the method named `be_empty` is known as a "predicate matcher":
 
     array.should be_empty
+    
+### How do you update RubyMotion?
+
+`sudo update motion`
+
+You need to be root to run this command.
+
+### How do you create a new RubyMotion project?
+
+`motion create YourProjectName`
+
+### What files are generated when you create a RubyMotion project?
+
+```
+.gitignore
+Rakefile
+app
+app/app_delegate.rb
+resources
+spec
+spec/main_spec.rb
+```
+
+### What happens when you just run `rake`?
+
+Running `rake` from the command line is the same as running `rake default` and the description of the default Rake task is:
+
+    Build the project, then run the simulator
+
+### How do you list all of the rake tasks?
+
+`rake --tasks`
+
+### What does the `$:.unshift()` line do in the Rakefile?
+
+The line in question—the second line of the generated Rakefile:
+
+`$:.unshift("/Library/RubyMotion/lib")`
+
+This tells Ruby to look in `/Library/RubyMotion/lib` anytime you use the `require` method in a Ruby file.
+
+The line below it—third line—wouldn't work at all without the second line:
+
+`require 'motion/project'`
+
+### What is AppDelegate?
+
+`AppDelegate` is class -- the *default* `delegate_class` set in a vanilla RubyMotion project's config. You can override this default value with whatever you want, but "AppDelegate" is the convention.
+
+An application delegate is the first thing to recieve control from the operating system. It only has to implement the `application:didFinishLaunchingWithOptions` method.
+
+
