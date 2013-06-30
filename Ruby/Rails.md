@@ -10,4 +10,8 @@
 
 4. `unit` - test for your models
 
+### What's the command for restarting a Rails app using Passenger?
 
+Create a file called `restart.txt` in the `tmp` folder of your Rails application. From inside the root of your Rails app:
+
+`touch tmp/restart.txt`
