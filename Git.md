@@ -40,6 +40,17 @@ A slightly more intuitive way of doing that second command:
 
     git push origin --delete name-of-branch
 
+### Show all commits in a branch that aren't in master
+
+	git log master..name-of-branch
+	
+or if you want to be fancy:
+
+	git log --pretty=short --graph --all master..name-of-branch
+
+### List all branches not merged into master
+
+	git branch --all --no-merged master
 
 ### When I list all the remote branches, I see things that actually aren't there anymore. What's wrong?
 
