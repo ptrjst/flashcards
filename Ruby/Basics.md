@@ -90,3 +90,7 @@ http://www.ruby-doc.org/stdlib-1.9.3/
 YARV (Yet another Ruby VM)—it's the official interpreter for Ruby, starting in Jan. 2007 with version 1.9.
 
 YARV was written by Koichi Sasada and is also known as KRI (Koichi's Ruby Interpreter).
+
+### How might you get a list of an object's methods containing the word "event"?
+
+	my_obj.methods.grep(/event/)
