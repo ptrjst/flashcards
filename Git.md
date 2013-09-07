@@ -51,6 +51,10 @@ or if you want to be fancy:
 ### List all branches not merged into master
 
 	git branch --all --no-merged master
+	
+### Show all commits made just to branch, excluding everything merged in from master re-syncs
+
+	git log --first-parent	
 
 ### When I list all the remote branches, I see things that actually aren't there anymore. What's wrong?
 
@@ -69,3 +73,10 @@ You need to remove the remote tracking branches:
     git reset --hard HEAD~1
     
 `HEAD~1` means the commit before head.
+
+### How do you squash many commits into one?
+
+Let's say you want the last five commits to be one. You'd do:
+
+	git rebase -i HEAD~5
+	
