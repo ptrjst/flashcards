@@ -74,9 +74,22 @@ You need to remove the remote tracking branches:
     
 `HEAD~1` means the commit before head.
 
-### How do you squash many commits into one?
+### Squash many commits into one
 
 Let's say you want the last five commits to be one. You'd do:
 
 	git rebase -i HEAD~5
-	
+
+## Stats
+
+### Total project commit count
+
+	git rev-list master --count
+
+### Total commits by each person
+
+	git shortlog -sn
+
+### Lists all commits made by a person
+
+	git log --author="<author name>" --oneline --shortstat
