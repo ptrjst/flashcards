@@ -15,3 +15,15 @@
 Create a file called `restart.txt` in the `tmp` folder of your Rails application. From inside the root of your Rails app:
 
 `touch tmp/restart.txt`
+
+### How can you use routes in the Rails console?
+
+You first need to include the URL helpers:
+
+	include Rails.application.routes.url_helpers
+
+Now you can use them:
+
+	> root_path
+	=> "/"
+
