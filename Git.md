@@ -82,6 +82,21 @@ You need to remove the remote tracking branches:
 	248a958 version bump to 3.0.7
 	816ed01 version bump 3.0.6
 
+## What is the difference between a branch and a tag?
+
+From [Jakub Narębski's answer on Stack Overflow](http://stackoverflow.com/a/1457536):
+
+> From the theoretical point of view:
+
+> - **tags** are symbolic names for a given *revision*. They always point to the same object (usually: to the same revision); they do not change.
+> - **branches** are symbolic names for *line of development*. New commits are created on top of branch. The branch pointer naturally advances, pointing to newer and newer commits.
+
+> From the technical point of view:
+
+> - **tags** reside in `refs/tags/` namespace, and can point to *tag objects* (annotated and optionally GPG signed tags) or directly to *commit object* (less used lightweight tag for local names), or in very rare cases even to *tree object* or *blob object* (e.g. GPG signature).
+> - **branches** reside in `refs/heads/` namespace, and can point only to *commit objects*. The HEAD pointer must refer to a branch (symbolic reference) or directly to a commit (detached HEAD or unnamed branch).
+> - **remote-tracking branches** reside in `refs/remotes/<remote>/` namespace, and follow ordinary branches in remote repository `<remote>`.
+
 ## Rewriting history
 
 ### Blow away all your work in progress
