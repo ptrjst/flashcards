@@ -94,3 +94,7 @@ YARV was written by Koichi Sasada and is also known as KRI (Koichi's Ruby Interp
 ### How might you get a list of an object's methods containing the word "event"?
 
 	my_obj.methods.grep(/event/)
+
+## Resources
+
+https://github.com/gregstallings/ruby-trivia
