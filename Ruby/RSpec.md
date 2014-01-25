@@ -37,7 +37,7 @@ The `it()` method creates an *example* of the behavior of a `MovieList`, with th
 
 In Behavior-Driven Development, everyone has to describe scenarios using specific language: *Given* some context, *when* some event occurs, *Then* I expect some outcome. This is known as the "BDD triad".
 
-## What is red/green/factor?
+### What is red/green/factor?
 
 In Test-Driven Development, you develop using the red/green/refactor cycle.
 
@@ -46,3 +46,7 @@ In Test-Driven Development, you develop using the red/green/refactor cycle.
 2. Write enough code to watch your test *pass*.
 
 3. Observe resulting design. *Refactor* any duplication you see.
+
+## Resources
+
+http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_and_bdd.html
