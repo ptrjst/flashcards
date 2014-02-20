@@ -93,7 +93,34 @@ YARV was written by Koichi Sasada and is also known as KRI (Koichi's Ruby Interp
 
 ### How might you get a list of an object's methods containing the word "event"?
 
-	my_obj.methods.grep(/event/)
+    my_obj.methods.grep(/event/)
+
+### What is the GIL?
+
+Global interpreter lock
+
+This makes sure that only one thread is running at a time.
+
+## Version History
+
+### How long did it take to make Ruby 1.9?
+
+- 2003: First build (1.9)
+- 2009: First production release (1.9.1)
+- 2010: First truely stable version (1.9.2)
+- 2011: The last big version (1.9.3)
+
+### What was the big Ruby 1.9 change regarding RubyGems?
+
+Ruby 1.9 and newer ships with RubyGems built-in.
+
+You don't need to do `require 'rubygems'` anymore.
+
+## Trivia
+
+### What day is Ruby traditionally released on?
+
+Christmas Day
 
 ## Resources
 
