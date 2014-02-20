@@ -27,3 +27,8 @@ Now you can use them:
 	> root_path
 	=> "/"
 
+### Uninstall all gems
+
+	for i in `gem list --no-versions`; do gem uninstall -aIx $i; done
+
+[via](http://stackoverflow.com/questions/8095209/uninstall-all-installed-gems-in-osx)
